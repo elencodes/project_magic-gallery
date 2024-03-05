@@ -35,7 +35,8 @@ body {
 	font-size: 14px;
 	color: #171717;
 
-	background: url("../img/magic_school/bc.jpg") 50% / cover no-repeat;
+	background: url("../img/magic_school/bc.jpg") center center no-repeat fixed;
+	background-size: cover;
 }
 
 
